@@ -1,4 +1,4 @@
-# Oil Spill Detection using YOLOv8 🌊
+# Oil Spill Detection using YOLOv8 
 
 This repository contains a deep learning computer vision model trained to identify and localize oil spills imagery using the ultralytics YOLOv8 architecture.
 
